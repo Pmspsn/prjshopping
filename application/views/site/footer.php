@@ -26,7 +26,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__about">
                     
-                    <p>Khách hàng là trọng tâm của mô hình kinh doanh độc đáo của chúng tôi, bao gồm cả thiết kế.</p>
+                    <p>Hello World</p>
                     <a href="#"><img src='<?php echo base_url('upload/payment.png'); ?>'></a>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                 <div class="footer__widget">
                     <h6>ĐỊA CHỈ EMAIL</h6>
                     <div class="footer__newslatter">
-                        <p>Hãy là người đầu tiên biết về hàng mới xuất hiện, xem sách, bán hàng &amp; quảng cáo!</p>
+                        <p>It's not working !</p>
                         <form action="#">
                             <input type="text" placeholder="Nhập Email" style="color: #ffffff">
                             <button type="submit"><i class="fa fa-envelope "></i></button>
@@ -68,12 +68,7 @@
             <div class="col-lg-12 text-center">
                 <div class="footer__copyright__text">
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    <p>Copyright ©
-                        <script>
-                            document.write(new Date().getFullYear());
-                        </script>
-                        All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" >Nhóm 18</a>
-                    </p>
+                    <h4 style="color:#fff">12/5/2023</h4>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </div>
             </div>
